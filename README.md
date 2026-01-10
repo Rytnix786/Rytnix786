@@ -53,7 +53,7 @@ Hi, I’m **Mehedi Hasan** — a Computer Science student and developer with int
 
 - GitHub: [https://github.com/your-username  ](https://github.com/Rytnix786)
 - Email: nafismehedi37@gmail.com
-- LinkedIn (optional): [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/mehedi-hasan-rytnix786/)
+- LinkedIn (optional): [https://www.linkedin.com/in/mehedi-hasan-rytnix786/](https://www.linkedin.com/in/mehedi-hasan-rytnix786/)
 
 ---
 
