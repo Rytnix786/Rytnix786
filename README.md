@@ -51,7 +51,7 @@ Hi, I’m **Mehedi Hasan** — a Computer Science student and developer with int
 
 ## 📫 How to reach me?
 
-- GitHub: [https://github.com/your-username  ](https://github.com/Rytnix786)
+- GitHub: [https://github.com/Rytnix786  ](https://github.com/Rytnix786)
 - Email: nafismehedi37@gmail.com
 - LinkedIn (optional): [https://www.linkedin.com/in/mehedi-hasan-rytnix786/](https://www.linkedin.com/in/mehedi-hasan-rytnix786/)
 
