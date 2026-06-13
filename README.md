@@ -4,7 +4,7 @@
 
 CS @ BRAC University, Dhaka · Graduating 2026 · Open to internships and full-time roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedihasan-llm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-llm/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nafismehedi37@gmail.com)
 
 ---
