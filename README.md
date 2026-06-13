@@ -1,142 +1,111 @@
-# Assalamualaikum, I'm Mehedi Hasan 👋
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0EA5E9,50:8B5CF6,100:22C55E&text=Mehedi%20Hasan&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20systems%20builder%20%7C%20RAG%20%7C%20multi-agent%20workflows%20%7C%20backend%20systems&descAlignY=58&descSize=15" alt="Mehedi Hasan animated profile header" />
+</p>
 
-### AI Systems Builder | RAG • Multi-Agent • LLM • SaaS
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+production-grade+AI+systems.;RAG+pipelines+that+stay+grounded.;Multi-agent+workflows+with+state+and+control.;Offline-first+apps+for+messy+real-world+conditions." alt="Typing animation: AI systems, RAG, multi-agent workflows, offline-first apps" />
+  </a>
+</p>
 
-Dhaka, Bangladesh | CS @ BRAC University (Graduating 2026)
-
-<p align="left">
-  <a href="https://linkedin.com/in/mehedi-hasan-llm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nafismehedi37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Rytnix786">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<p align="center">
+  <a href="mailto:nafismehedi37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/mehedi-hasan-llm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rytnix786"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## ⚡ About Me
+## About
 
-I'm a computer science undergraduate at **BRAC University** who builds **production-grade AI systems — not demos**. 
+I am a computer science undergraduate from Dhaka, Bangladesh, focused on AI systems that survive real product constraints: unreliable networks, missing evidence, budget limits, and messy user input.
 
-I document every major architectural decision, test adversarially, and design for real-world failures. My engineering philosophy is built around a simple rule: **build for the case where the network drops, the budget runs out, or the evidence is insufficient.**
+My work sits where LLMs meet backend engineering: retrieval, agent orchestration, evaluation, streaming APIs, offline sync, and pragmatic full-stack delivery.
 
-- 🚀 Currently exploring stateful multi-agent workflows and offline-first AI sync.
-- 🎓 CS Undergrad at BRAC University (Class of 2026).
-- 🏆 Award-winning builder: Participant and builder at **The Infinity AI BuildFest 2026**.
-- 💼 Open to internships, part-time, and full-time roles in **AI Engineering**, **Backend Systems**, or **Full-Stack Development**.
+```txt
+Focus       RAG systems, multi-agent workflows, backend architecture
+Principle   Evidence first. Refuse when facts are missing.
+Currently   Stateful AI workflows, offline-first sync, production eval loops
+```
 
----
+## Selected Work
 
-## 🛠️ Tech Stack & Skills
+<table>
+  <tr>
+    <td width="50%">
+      <h3>MaSheba AI</h3>
+      <p>Offline-first Bangla maternal healthcare platform for pregnant women and community health workers.</p>
+      <p><b>Built:</b> local SQLite sync, Supabase backend, on-device risk triage, Bangla clinical assistant.</p>
+      <p>
+        <a href="https://github.com/DigontaDas/MaSheba--AI">Repository</a>
+        |
+        <a href="https://masheba-docs.vercel.app/docs">Docs</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Nexus Researcher</h3>
+      <p>Stateful multi-agent research workflow with retrieval, checkpoints, and streamed execution.</p>
+      <p><b>Built:</b> LangGraph pipeline, SSE replay, human-in-the-loop validation, backend test coverage.</p>
+      <p><a href="https://github.com/Rytnix786">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>MindStack</h3>
+      <p>Production RAG system designed around factual grounding and refusal behavior.</p>
+      <p><b>Built:</b> BM25 plus vector retrieval, evidence verification, adversarial QA checks, CI evaluation.</p>
+      <p><a href="https://github.com/Rytnix786">Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3>OFFBoarder</h3>
+      <p>Security-first enterprise offboarding system with isolation and tamper-resistant audit trails.</p>
+      <p><b>Built:</b> PostgreSQL RLS, RBAC, segregation-of-duties policy, cryptographic evidence hashing.</p>
+      <p><a href="https://github.com/Rytnix786">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
-### 🧠 Artificial Intelligence & RAG
-<p align="left">
-  <img src="https://img.shields.io/badge/LangGraph-0052FF?style=flat-square&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/ChromaDB-FC6D26?style=flat-square&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" alt="Ollama" />
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,postgres,supabase,redis,docker,tailwind,githubactions,vercel" alt="Core tools: Python, TypeScript, React, Next.js, Node.js, FastAPI, PostgreSQL, Supabase, Redis, Docker, Tailwind, GitHub Actions, Vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1E40AF?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/ChromaDB-F97316?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Mistral_AI-F43F5E?style=flat-square&logoColor=white" alt="Mistral AI" />
-  <img src="https://img.shields.io/badge/RAG_Systems-FF6F00?style=flat-square&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square" alt="Mistral AI" />
+  <img src="https://img.shields.io/badge/Promptfoo-38BDF8?style=flat-square" alt="Promptfoo" />
+  <img src="https://img.shields.io/badge/LangSmith-0F766E?style=flat-square" alt="LangSmith" />
 </p>
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### 📱 Frontend & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### 🛠️ Infrastructure & Evaluation
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-F48120?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Promptfoo-38BDF8?style=flat-square&logoColor=white" alt="Promptfoo" />
-  <img src="https://img.shields.io/badge/LangSmith-0052FF?style=flat-square&logoColor=white" alt="LangSmith" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🤰 [MaSheba AI](https://github.com/DigontaDas/MaSheba--AI) — Offline-First Maternal Healthcare Platform
-*An offline-first, Bangla-speaking AI clinical companion for pregnant women and Community Health Workers (CHWs) in rural Bangladesh.*
-- 🏆 **Built for The Infinity AI BuildFest 2026** by Team DareDevil (the entire application was engineered by me).
-- **Offline-First Resilience**: Implemented a local SQLite database that stores checkups, maternal risks, and patient queries without internet, syncing seamlessly to Supabase when connectivity restores.
-- **Intelligent Risk Triage**: Built a localized risk-evaluation engine that triages patient vitals on-device to flag critical issues like preeclampsia.
-- **Clinical Assistant**: Integrated Groq & Gemini API chats customized for health workers to query pregnancy guidelines in Bangla.
-- **Stack**: React Native (Expo) • Expo Router • SQLite • Supabase • FastAPI • Groq & Gemini APIs • PostgreSQL.
-- **Resources**: [Documentation Site](https://masheba-docs.vercel.app/docs)
-
-### 🛡️ [OFFBoarder](https://github.com/Rytnix786) — Security-First Enterprise Offboarding
-*A production-grade, multi-tenant enterprise offboarding platform designed with military-grade isolation.*
-- **Security Engineering**: Enforced PostgreSQL Row-Level Security (RLS), Role-Based Access Control (RBAC), and Segregation-of-Duties (SoD) policies.
-- **Cryptographic Audit Trails**: Designed an immutable audit pack system leveraging cryptographic evidence hashing to prevent tampering.
-- **Stack**: Next.js (App Router) • TypeScript • PostgreSQL • Prisma • Supabase.
-
-### 🤖 [Nexus Researcher](https://github.com/Rytnix786) — Stateful Multi-Agent AI Research System
-*A full-stack, stateful multi-agent AI research workflow capable of autonomous deep dives.*
-- **System Architecture**: Designed an 8-node LangGraph stateful workflow featuring a 4-stage retrieval pipeline.
-- **High-Performance Streaming**: SSE streaming with custom Last-Event-ID replay and human-in-the-loop validation checkpoints.
-- **Performance**: Achieved **8.05 req/s under load** and a **p95 TTFB of 8.68ms** on streamed runs.
-- **Test Integrity**: Maintained **122 backend tests** with 0 failures.
-- **Stack**: LangGraph • LangChain • FastAPI • ChromaDB • Ollama • OpenAI • Mistral • PostgreSQL (State Checkpointing) • Redis • Docker • Next.js • Tailwind CSS.
-
-### 🔍 [MindStack](https://github.com/Rytnix786) — High-Accuracy Production RAG System
-*A retrieval-augmented generation pipeline engineered to prioritize factual grounding.*
-- **Hallucination Mitigation**: Formulated an evidence-verification layer that refuses to answer when supporting facts are absent.
-- **Proven Results**: Boosted refusal accuracy from **26.67% to 66.67%** on adversarial inputs, achieving **95% groundedness**.
-- **Search Optimization**: Configured a hybrid search pipeline combining BM25 keyword matching and ChromaDB vector embeddings.
-- **Automation**: Managed via a robust GitHub Actions QA pipeline triggered on every push.
-- **Stack**: FastAPI • React • Docker • ChromaDB • BM25 • Ollama • Mistral.
-
----
-
-## 📊 GitHub Analytics
+## GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rytnix786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mehedi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytnix786&layout=compact&theme=tokyonight&hide_border=true" alt="Mehedi's Top Languages" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rytnix786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats for Rytnix786" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytnix786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages for Rytnix786" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rytnix786&theme=tokyonight&hide_border=true" alt="Mehedi's Streak Stats" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rytnix786&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Animated contribution activity graph for Rytnix786" />
 </p>
 
----
+## Contact
 
-## 🎓 Education & Certifications
+Open to AI engineering, backend systems, and full-stack product work.
 
-- **BRAC University** — Bachelor of Science in Computer Science & Engineering (2022 - 2026)
-- **DRMC (Dhaka Residential Model College)** — HSC, Science (2019 - 2021)
-- **Certification**: THE INFINITY AI BUILDFEST 2026 — Participation & App Builder Certificate
+<p align="center">
+  <a href="mailto:nafismehedi37@gmail.com"><b>Email</b></a>
+  |
+  <a href="https://linkedin.com/in/mehedi-hasan-llm"><b>LinkedIn</b></a>
+  |
+  <a href="https://github.com/Rytnix786"><b>GitHub</b></a>
+</p>
 
----
-
-## ✉️ Get in Touch
-
-Let's build something production-grade together. Whether it's AI agent systems, scalable web apps, or backend architecture, I'm always open to discussing new engineering opportunities.
-
-- 💬 DM me on [LinkedIn](https://linkedin.com/in/mehedi-hasan-llm)
-- 📧 Shoot an email to [nafismehedi37@gmail.com](mailto:nafismehedi37@gmail.com)
-- 🌐 Explore my repositories on [GitHub](https://github.com/Rytnix786)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22C55E,50:8B5CF6,100:0EA5E9&section=footer&animation=fadeIn" alt="Animated footer wave" />
+</p>
