@@ -88,6 +88,12 @@ I document every major architectural decision, test adversarially, and design fo
 - **Stack**: React Native (Expo) • Expo Router • SQLite • Supabase • FastAPI • Groq & Gemini APIs • PostgreSQL.
 - **Resources**: [Documentation Site](https://masheba-docs.vercel.app/docs)
 
+### 🛡️ [OFFBoarder](https://github.com/Rytnix786) — Security-First Enterprise Offboarding
+*A production-grade, multi-tenant enterprise offboarding platform designed with military-grade isolation.*
+- **Security Engineering**: Enforced PostgreSQL Row-Level Security (RLS), Role-Based Access Control (RBAC), and Segregation-of-Duties (SoD) policies.
+- **Cryptographic Audit Trails**: Designed an immutable audit pack system leveraging cryptographic evidence hashing to prevent tampering.
+- **Stack**: Next.js (App Router) • TypeScript • PostgreSQL • Prisma • Supabase.
+
 ### 🤖 [Nexus Researcher](https://github.com/Rytnix786) — Stateful Multi-Agent AI Research System
 *A full-stack, stateful multi-agent AI research workflow capable of autonomous deep dives.*
 - **System Architecture**: Designed an 8-node LangGraph stateful workflow featuring a 4-stage retrieval pipeline.
@@ -95,12 +101,6 @@ I document every major architectural decision, test adversarially, and design fo
 - **Performance**: Achieved **8.05 req/s under load** and a **p95 TTFB of 8.68ms** on streamed runs.
 - **Test Integrity**: Maintained **122 backend tests** with 0 failures.
 - **Stack**: LangGraph • LangChain • FastAPI • ChromaDB • Ollama • OpenAI • Mistral • PostgreSQL (State Checkpointing) • Redis • Docker • Next.js • Tailwind CSS.
-
-### 🛡️ [OFFBoarder](https://github.com/Rytnix786) — Security-First Enterprise Offboarding
-*A production-grade, multi-tenant enterprise offboarding platform designed with military-grade isolation.*
-- **Security Engineering**: Enforced PostgreSQL Row-Level Security (RLS), Role-Based Access Control (RBAC), and Segregation-of-Duties (SoD) policies.
-- **Cryptographic Audit Trails**: Designed an immutable audit pack system leveraging cryptographic evidence hashing to prevent tampering.
-- **Stack**: Next.js (App Router) • TypeScript • PostgreSQL • Prisma • Supabase.
 
 ### 🔍 [MindStack](https://github.com/Rytnix786) — High-Accuracy Production RAG System
 *A retrieval-augmented generation pipeline engineered to prioritize factual grounding.*
