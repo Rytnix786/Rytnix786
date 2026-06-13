@@ -1,62 +1,55 @@
-## 👋 Who am I?
+# Mehedi Hasan
 
-Hi, I’m **Mehedi Hasan** — a Computer Science student and developer with interests in **software engineering, web development, algorithms, and system-level projects**. I enjoy building practical applications and breaking down complex problems into clean, efficient solutions.
+**AI Systems Builder** — RAG · Multi-Agent · LLM · Production Backend
 
----
+CS @ BRAC University, Dhaka · Graduating 2026 · Open to internships and full-time roles
 
-## 🚧 What am I currently working on?
-
-- University projects in **Computer Graphics, Algorithms, and Software Engineering**
-- Building web applications using **React**
-- Python-based academic work (A*, Genetic Algorithms, OpenGL)
-- Improving my **GitHub portfolio** with clean, well-documented projects
-- Exploring backend logic, automation, and scalable systems
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedihasan-llm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nafismehedi37@gmail.com)
 
 ---
 
-## 🛠️ Skills & Technologies
+## What I build
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I build production-grade AI systems — not demos. Everything ships with tests, adversarial evaluation, and real error handling.
 
----
+In the last 6 months:
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JSX](https://img.shields.io/badge/JSX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Refusal-aware RAG** — MindStack went from 26.67% to 66.67% refusal accuracy on out-of-scope queries. Groundedness at 95%. Hybrid BM25 + ChromaDB retrieval. GitHub Actions QA on every push.
+- **Multi-agent research system** — Nexus Researcher: 8-node LangGraph workflow, SSE streaming with Last-Event-ID replay, human-in-the-loop approval, PostgreSQL checkpointing. 122 backend tests / 0 failures. p95 TTFB 8.68ms. 91% adversarial refusal accuracy.
+- **Maternal health platform for rural Bangladesh** — MaaSheba AI: offline-first React Native app, CHW location tracking (PostGIS + Leaflet), AI safety layer, Gemini 2.5 Flash + Groq LLaMA backend.
+- **Model regression detection** — ARES: automated model quality monitoring with DVC, MLflow, Celery + Redis pipeline, Supabase/PostgreSQL, GitHub Actions CI.
 
 ---
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Featured Projects
+
+| Project | What it does | Key metric |
+|---|---|---|
+| [Nexus Researcher](https://github.com/Rytnix786) | Stateful multi-agent AI research — LangGraph, SSE, HITL | 122 tests / 0 failures · 91% refusal acc |
+| [MindStack](https://github.com/Rytnix786) | Production RAG with adversarial refusal gating | Refusal: 26% → 66% · Groundedness: 95% |
+| [MaaSheba AI](https://github.com/Rytnix786) | Maternal health AI for rural Bangladesh (hackathon) | Offline-first · PostGIS CHW tracking |
+| [ARES](https://github.com/Rytnix786) | Model regression detection system | DVC + MLflow + Celery pipeline |
+| [Akashi](https://github.com/Rytnix786) | Satellite-powered crop health for smallholder farmers | TFLite disease detection · RAG pipeline |
 
 ---
 
-### 🧠 Core Skills
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Debugging & Problem Solving  
-- Academic & Practical Coding Workflows  
+## Stack
+
+**AI/ML** — LangGraph · LangChain · FastAPI · ChromaDB · BM25 · Ollama · Gemini · Groq · Promptfoo · LangSmith · OpenTelemetry
+
+**Backend** — Node.js · Express · PostgreSQL · Prisma · Supabase · Redis · Docker · Celery
+
+**Frontend** — Next.js · React · React Native/Expo · TypeScript · Tailwind CSS
+
+**Infra** — Vercel · GitHub Actions · PostGIS · DVC · MLflow · MinIO
 
 ---
 
-## 📫 How to reach me?
+## Now
 
-- GitHub: [https://github.com/Rytnix786  ](https://github.com/Rytnix786)
-- Email: nafismehedi37@gmail.com
-- LinkedIn (optional): [https://www.linkedin.com/in/mehedi-hasan-rytnix786/](https://www.linkedin.com/in/mehedi-hasan-rytnix786/)
+Building **MaaSheba AI** — maternal health platform targeting Infinity AI BuildFest 2026
 
----
+Open to **AI engineering, backend systems, and full-stack roles** — internship, part-time, or full-time
 
-### ⭐ Fun fact
-
-I prefer writing **clean, maintainable code** over quick hacks — if it works, it should work *properly*.
+→ nafismehedi37@gmail.com · [linkedin.com/in/mehedihasan-llm](https://www.linkedin.com/in/mehedihasan-llm)
