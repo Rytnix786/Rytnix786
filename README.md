@@ -18,6 +18,9 @@
 <a href="https://github.com/Rytnix786">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617" alt="GitHub" />
 </a>
+<a href="https://mehedi-hasan-llm.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=020617" alt="Portfolio" />
+</a>
 
 </div>
 
