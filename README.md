@@ -130,8 +130,8 @@ style      minimal UI, serious internals</code></pre>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rytnix786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Build%20Telemetry" alt="GitHub stats for Rytnix786" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytnix786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Language%20Mix" alt="Top languages for Rytnix786" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rytnix786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&custom_title=Build%20Telemetry" alt="GitHub stats for Rytnix786" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytnix786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&custom_title=Language%20Mix" alt="Top languages for Rytnix786" />
 
 <br />
 <br />
